@@ -1,5 +1,3 @@
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
-
 Hi! This is a [Next.js](https://nextjs.org/) boilerplate.
 
 ## What is inside?
